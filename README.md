@@ -8,7 +8,7 @@
 <a href="#"><img alt="MH-DDoS last commit (main)" src="https://img.shields.io/github/last-commit/MatrixTM/MHDDoS/main?color=green&style=for-the-badge"></a>
 <a href="#"><img alt="MH-DDoS Repo stars" src="https://img.shields.io/github/stars/MatrixTM/MHDDoS?style=for-the-badge&color=yellow"></a>
 <a href="#"><img alt="MH-DDoS License" src="https://img.shields.io/github/license/MatrixTM/MHDDoS?color=orange&style=for-the-badge"></a>
-<a href="https://github.com/MatrixTM/MHDDoS/issues"><img alt="MatrixTM issues" src="https://img.shields.io/github/issues/MatrixTM/MHDDoS?color=purple&style=for-the-badge"></a>
+<a href="https://github.com/touchmycrazyredhat/MHDDoS/issues"><img alt="MatrixTM issues" src="https://img.shields.io/github/issues/MatrixTM/MHDDoS?color=purple&style=for-the-badge"></a>
   
 <p align="center">Please Don't Attack websites without the owners consent.</p>
 
@@ -138,13 +138,13 @@ You can read it from [GitHub Wiki](https://github.com/MatrixTM/MHDDoS/wiki)
 **Clone and Install Script**
 
 ```shell script
-git clone https://github.com/MatrixTM/MHDDoS.git
+git clone https://github.com/touchmycrazyredhat/MHDDoS.git
 cd MHDDoS
 pip install -r requirements.txt
 ```
 
 [python3]: https://python.org 'Python3'
-[github]: https://github.com/MatrixTM/MHDDoS/issues 'GitHub'
+[github]: https://github.com/touchmycrazyredhat/MHDDoS/issues 'GitHub'
 
 ---
 
